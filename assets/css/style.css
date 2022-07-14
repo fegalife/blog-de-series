@@ -93,7 +93,25 @@ height: 500px
 .br-50{
   border-radius: max(20%);
 }
+/*brenda*/
 
+.dark{
+    width: 900px;
+    height: 660px;
+   
+
+
+}
+
+#bg-fundo{
+    background-color: rgb(29, 28, 28);
+   
+}
+
+.container{
+justify-content: center;
+
+}
 
 /*lesley*/
 
