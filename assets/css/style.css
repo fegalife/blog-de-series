@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto+Mono:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto+Mono:ital,wght@1,500&display=swap'); 
+
+*{
+font-family: 'Roboto Mono', monospace;
+}
+ .tm-icon{
+
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+  }
+
+  .color-rosa{
+      color: rgb(255, 255, 255);
+  }
+  .ft-20{
+    font-size: 20px;
+  }
+  #bg-fundo{
+    background-color: 
+    rgb(80, 96, 215);
+  }
+  #menu li{
+  display: inline;
+  padding: 100px;
+  }
+  #menu a{
+    text-decoration: rgb(14, 241, 162);
+  }
+ 
+  
+
+  
+  #menu a li:hover{
+    color: blanchedalmond;
+  }
+
+  /**/
+.logo-receitas{
+  font-weight: 600;
+  color: aqua;
+}
+.logo-v{
+  font-weight: 600;
+  color: aqua;
+}
+.logo-l{
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+  }
+
+  .flex-conteiner{
+      display: flex;
+      justify-content: center;
+}
+
+.conteiner{
+  display: flex;
+  flex-flow:row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tm-img{
+width: 600px ;
+height: 500px 
+}
+ 
+.tx-center{
+  text-align: center;
+}
+
+.subtitle{
+  font-weight: 400;
+  font-size:24px;
+  color: rgb(255, 255, 255);
+}
+
+.borda{
+  border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+.br-50{
+  border-radius: max(20%);
+}
