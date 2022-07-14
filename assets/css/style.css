@@ -93,3 +93,36 @@ height: 500px
 .br-50{
   border-radius: max(20%);
 }
+
+
+/*lesley*/
+
+.imagem-tam {
+    height: 60%;
+
+}
+
+.sobre {
+    background-color: rgb(24, 90, 54);
+}
+
+.tam-icon {
+    width: 50px;
+}
+
+#fundo {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2039a4ce-dce6-4147-b2f2-485bee7c0a58/dbwynjd-b6df1f82-ff61-4ae2-8f65-12b6fa6d3bb2.jpg/v1/fill/w_1024,h_641,q_75,strp/dark_netflix_serie_wallpaper_by_derotsen_dbwynjd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQxIiwicGF0aCI6IlwvZlwvMjAzOWE0Y2UtZGNlNi00MTQ3LWIyZjItNDg1YmVlN2MwYTU4XC9kYnd5bmpkLWI2ZGYxZjgyLWZmNjEtNGFlMi04ZjY1LTEyYjZmYTZkM2JiMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NKSLlI3YgNgIb4owzZvlq_cinI9JYInDsloNGjxVXpg);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+    
+}
+
+a:link{
+    color: green;
+}
+
+/*/lesley*/
