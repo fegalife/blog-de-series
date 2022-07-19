@@ -137,6 +137,21 @@ a:link{
     color: green;
 }
 
+.back-to-top{
+  background-color: #19110b;
+  border-radius: 85px;
+  bottom: 20px;
+  box-shadow: 2px 3px 19px -2px  rgba(0, 0, 0, .75);
+  color: #166736;
+  cursor: pointer;
+  height: 60px;
+  position: fixed;
+  right: 32px;
+  width: 60px;
+  z-index: 3;
+}
+
+
 
 
 /*/lesley*/
