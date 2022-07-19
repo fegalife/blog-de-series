@@ -1,0 +1,52 @@
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .fundo{
+    background-image: url(https://occ-0-1347-2433.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABc4Bp4lmhdqWFXsSJ2ArJhM2GocEp-O0WKOaEz3PkDu0bN9wVIE_TZeEGAnvRgWQzSDHS0w-d0hSVM5xjCBAQQFZanTCpgydC2SN.jpg?r=0ce);
+
+  
+}
+
+.conteudo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto{
+  
+  width: 360px;
+  height: 360px;
+  
+ transform: rotate(-10deg) skew(10deg) scale(0.5);
+
+ background: rgba(rgb(43, 40, 40));
+}
+
+.foto:hover img:nth-child(4){
+  transform: translate(160px, -160px);
+}
+
+.foto:hover img:nth-child(3){
+  transform: translate(120px, -120px);
+}
+
+.foto:hover img:nth-child(2){
+  transform: translate(80px, -80px);
+}
+.foto:hover img:nth-child(1){
+  transform: translate(40px, -40px);
+}
+
+.foto img{
+
+  
+  position: absolute;
+  transition: 0.5s;
+  
+ 
+}
